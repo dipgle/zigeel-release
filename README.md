@@ -1,7 +1,7 @@
 # Zigeel — app downloads
 
 Zigeel lets you view your screen and control your computer from your phone or another computer.
-Website: **https://zigeel.com**
+Website: **https://zigeel.com** · Feedback & support: info@zigeel.com
 
 This repository only hosts the installable apps (see **Releases**). It contains no source code.
 
@@ -19,4 +19,4 @@ Android: unzip, then install the APK (allow installing from this source when ask
 ---
 
 **Tiếng Việt:** kho này chỉ chứa bản cài đặt Zigeel (mục **Releases**), không có mã nguồn. Bản Windows và macOS chưa ký số
-nên máy có thể cảnh báo khi mở. Android: giải nén rồi cài tệp APK.
+nên máy có thể cảnh báo khi mở. Android: giải nén rồi cài tệp APK. Góp ý, báo lỗi: info@zigeel.com.
