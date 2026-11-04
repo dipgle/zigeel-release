@@ -1,7 +1,7 @@
 # Zigeel — app downloads
 
 Zigeel lets you view your screen and control your computer from your phone or another computer.
-Website: **https://zigeel.com** · Support: info@zigeel.com
+Website: **https://zigeel.com**
 
 This repository only hosts the installable apps (see **Releases**). It contains no source code.
 
